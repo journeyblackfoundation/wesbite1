@@ -1079,7 +1079,7 @@ section {
 }
 
 .counts2 .image {
-  background: url("../img/2.jpg") center center no-repeat;
+  background: url("../img/2.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
